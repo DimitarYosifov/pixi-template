@@ -33,7 +33,7 @@ export class GameScene extends Container implements IScene {
 
         // if (this.clampy.x < 0) {
         //     this.clampy.x = 0;
-        //     this.clampyVelocity = -this.clampyVelocity;
+        //     this.clampyVelocity = -this.clampyVelocity; 
         // }
     }
 }
